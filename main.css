@@ -1,0 +1,22 @@
+img {
+    width: 700px;
+    border-radius: 10px;
+    float: left;
+    margin-right: 10px;
+  }
+  p.reason {
+    font-weight: 300;
+    font-size: large;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-style: oblique;
+  }
+  h2.h2 {
+    font-size: x-large;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+    font-style: initial;
+  }
+  body {
+    background-color: rgb(25, 21, 69);
+    color: rgb(228, 234, 240);
+  }
